@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mwendenzuki
+- 👋 Hi, I’m Mwende,
 - 👀 I’m interested in ...web development.
 - 🌱 I’m currently learning ...javascript and python.
 - 💞️ I’m looking to collaborate on ...an adaptive learning system.
